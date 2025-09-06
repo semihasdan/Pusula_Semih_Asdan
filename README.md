@@ -204,3 +204,5 @@ The following strategies were applied to derive new, meaningful, and numerical f
 8. **Yas_Karesi (Age_Squared) and Yas_Grubu_ (Age_Group_*) Columns**
    - How it was created: Yas_Karesi was created by squaring the original age value. Yas_Grubu was created by binning age into categories like Baby, Child, Adolescent, Adult, Elderly using pd.cut, and then One-Hot Encoding was applied.
    - Why it was created: These two features were created to model the multi-faceted effect of age on treatment duration. While the original Yas column captures a linear relationship, Yas_Karesi helps the model learn non-linear relationships, such as the effect accelerating or decelerating with age, and the Yas_Grubu_* columns allow it to learn sharp behavioral changes between different age groups.
+
+<img width="1179" height="543" alt="image" src="https://github.com/user-attachments/assets/badea570-2d33-48a6-9ef1-30455eb1fbe0" />
