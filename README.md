@@ -1,5 +1,8 @@
 # Semih Aşdan - semih.asdan@gmail.com
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YcxYUoHb0_un5Ub0v9c1L4dzyLL25J45?usp=sharing)
+**[RUN ALL CODE IN COLAB]** - Execute the complete pipeline with a single "Run All" button
+
 # Medical Treatment Duration Prediction Project
 
 ## Project Overview
