@@ -1,15 +1,15 @@
-# Semih Aşdan - semih.asdan@gmail.com
+# Pusula_Semih_Asdan - Physical Medicine & Rehabilitation Data Analysis
+
+Semih Aşdan – semih.asdan@gmail.com
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YcxYUoHb0_un5Ub0v9c1L4dzyLL25J45?usp=sharing)
 **[RUN ALL CODE IN COLAB]** - First, upload the 'Talent_Academy_Case_DT_2025.xlsx' file to the Colab session, then execute the complete pipeline with a single "Run All" command.
-
 
 ## Data Science Intern Case Study - Physical Medicine & Rehabilitation
 
 ### Project Overview
 This repository contains my solution for the Data Science Intern Case Study focusing on a physical medicine & rehabilitation dataset. The goal was to conduct in-depth Exploratory Data Analysis (EDA) and prepare the data for potential predictive modeling around the target variable `TedaviSuresi` (Treatment Duration).
 
-### Dataset Description
 The dataset consists of 2,235 observations with 13 features related to patients in a physical medicine and rehabilitation setting:
 - **HastaNo**: Anonymized patient ID
 - **Yas**: Age
@@ -78,7 +78,6 @@ Based on EDA findings, the following data cleaning and preprocessing steps were 
 ### Repository Structure
 ```
 ├── README.md                           # This file
-├── TalentDocSemihAsdan.pdf             # Detailed project documentation
 ├── PUSULA_SEMIH_ASDAN.ipynb           # Jupyter notebook with complete analysis
 ├── Pusula_Semih_Asdan.py              # Python script version
 ├── Talent_Semih_Asdan_Final_Data.xlsx # Final processed dataset
@@ -98,7 +97,6 @@ Based on EDA findings, the following data cleaning and preprocessing steps were 
 - ✅ GitHub repository with code
 - ✅ README.md file with project overview
 - ✅ Name, surname, and email at the top of README
-- ✅ Document summarizing findings (TalentDocSemihAsdan.pdf)
 - ✅ Proper repository naming (Pusula_Semih_Asdan)
 
 ### Detailed Data Preprocessing and Feature Engineering Steps
