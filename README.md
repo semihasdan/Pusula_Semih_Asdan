@@ -1,7 +1,7 @@
 # Semih Aşdan - semih.asdan@gmail.com
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YcxYUoHb0_un5Ub0v9c1L4dzyLL25J45?usp=sharing)
-**[RUN ALL CODE IN COLAB]** - Execute the complete pipeline with a single "Run All" button
+**[RUN ALL CODE IN COLAB]** - First, upload the 'Talent_Academy_Case_DT_2025.xlsx' file to the Colab session, then execute the complete pipeline with a single "Run All" command.
 
 # Medical Treatment Duration Prediction Project
 
