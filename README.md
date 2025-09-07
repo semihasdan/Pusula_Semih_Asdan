@@ -206,3 +206,4 @@ The following strategies were applied to derive new, meaningful, and numerical f
    - Why it was created: These two features were created to model the multi-faceted effect of age on treatment duration. While the original Yas column captures a linear relationship, Yas_Karesi helps the model learn non-linear relationships, such as the effect accelerating or decelerating with age, and the Yas_Grubu_* columns allow it to learn sharp behavioral changes between different age groups.
 
 <img width="1179" height="543" alt="image" src="https://github.com/user-attachments/assets/badea570-2d33-48a6-9ef1-30455eb1fbe0" />
+<img width="555" height="574" alt="image" src="https://github.com/user-attachments/assets/3a446557-9830-4dd9-ad9c-3ac0c7caa666" />
